@@ -1,0 +1,34 @@
+.container {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+    margin: 20px auto;
+}
+
+.details {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.details p {
+    margin: 5px 0;
+}
+
+.details ul {
+    margin: 10px 0;
+    padding: 0;
+}
+
+.details li {
+    list-style: disc;
+    margin-left: 20px;
+}
